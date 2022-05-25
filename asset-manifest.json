@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/FTRchallenge_newUI/static/css/main.0ce1a2ea.chunk.css",
-    "main.js": "/FTRchallenge_newUI/static/js/main.57048ae5.chunk.js",
-    "main.js.map": "/FTRchallenge_newUI/static/js/main.57048ae5.chunk.js.map",
-    "runtime-main.js": "/FTRchallenge_newUI/static/js/runtime-main.2ac3fa50.js",
-    "runtime-main.js.map": "/FTRchallenge_newUI/static/js/runtime-main.2ac3fa50.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/FTRchallenge_newUI/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.5a20f23c.chunk.js": "/FTRchallenge_newUI/static/js/2.5a20f23c.chunk.js",
-    "static/js/2.5a20f23c.chunk.js.map": "/FTRchallenge_newUI/static/js/2.5a20f23c.chunk.js.map",
-    "index.html": "/FTRchallenge_newUI/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/FTRchallenge_newUI/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.0ce1a2ea.chunk.css.map": "/FTRchallenge_newUI/static/css/main.0ce1a2ea.chunk.css.map",
-    "static/js/2.5a20f23c.chunk.js.LICENSE.txt": "/FTRchallenge_newUI/static/js/2.5a20f23c.chunk.js.LICENSE.txt"
+    "main.css": "/FTRChallenge_newUI/static/css/main.0ce1a2ea.chunk.css",
+    "main.js": "/FTRChallenge_newUI/static/js/main.57048ae5.chunk.js",
+    "main.js.map": "/FTRChallenge_newUI/static/js/main.57048ae5.chunk.js.map",
+    "runtime-main.js": "/FTRChallenge_newUI/static/js/runtime-main.137270fc.js",
+    "runtime-main.js.map": "/FTRChallenge_newUI/static/js/runtime-main.137270fc.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/FTRChallenge_newUI/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5a20f23c.chunk.js": "/FTRChallenge_newUI/static/js/2.5a20f23c.chunk.js",
+    "static/js/2.5a20f23c.chunk.js.map": "/FTRChallenge_newUI/static/js/2.5a20f23c.chunk.js.map",
+    "index.html": "/FTRChallenge_newUI/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/FTRChallenge_newUI/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.0ce1a2ea.chunk.css.map": "/FTRChallenge_newUI/static/css/main.0ce1a2ea.chunk.css.map",
+    "static/js/2.5a20f23c.chunk.js.LICENSE.txt": "/FTRChallenge_newUI/static/js/2.5a20f23c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ac3fa50.js",
+    "static/js/runtime-main.137270fc.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.5a20f23c.chunk.js",
     "static/css/main.0ce1a2ea.chunk.css",
