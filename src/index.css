@@ -21,12 +21,12 @@ code {
 }
 
 #timing {
-  width: 90px;
+  width: 70px;
 
 }
 
 #numberadded{
-  width:90px;
+  width:70px;
 }
 .content {
   margin-top: 50px;
@@ -40,19 +40,19 @@ code {
 .enterBtn {
   cursor:pointer;
   margin-left: 10px;
-  width:96px;
+  width:85px;
 }
 
 .frame {
   width:900px;
   background: #eee;
-
+  margin-left: 40px;
 }
 
 .menu {
   display: flex;
   justify-content: space-around; 
-  width:200px;
+  width:165px;
   height: 200px;
   flex-direction: column;
   margin-top: 20px;
