@@ -7,7 +7,8 @@ The logic of this program stay exactly the same as version 1. Please check the v
 2. Instruction and explanation how the program works: https://github.com/viettask/FTRchallenge/blob/master/README.md
 3. webpage deployment by using Github hosting: https://viettask.github.io/FTRchallenge/
 
-Now back to layout of version 2, all the input field required and buttons have already moved left as controller. And applying "SeaGreen" color for all buttons, this color matchs with while background and makes all buttons outstanding. 
+Now back to layout of version 2, there are many features applied to make this program improved about the aspect of UI & UX design.
+1. All the input field required and buttons have already moved left as controller. And applying "SeaGreen" color for all buttons, this color matchs with while background and makes all buttons outstanding. 
 
 
 
