@@ -15,6 +15,12 @@ Now back to layout of version 2, there are many features applied to make this pr
 5. Here, the prompt , message or alert message for each field input is placed under. And they are separate into 'warning'-red color or 'welcome'-green color class in CSS. 
 6. The content has changed with the INPUT & OUTPUT labels that make users easier to understand what going on. 
 
+In this 2nd version, please check the info as below:
+1. Github ( code storage): https://github.com/viettask/FTRChallenge_newUI
+2. Instruction and explanation how the program works: https://github.com/viettask/FTRChallenge_newUI/edit/master/README.md
+3. webpage deployment by using Github hosting: https://viettask.github.io/FTRChallenge_newUI/
+
+#Thanks for reading
 
 
 
