@@ -1,4 +1,4 @@
-# 2st part of FTR Coding Test 
+# 2nd part of FTR Coding Test 
 
 This is version 2 of the 1st part of FTR Coding test. At this point, UI design will apply to the 1st version by resconstructing React Component, Using bootstrap Toolkit,  and CSS.
 
